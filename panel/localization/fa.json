@@ -1,0 +1,15 @@
+{
+    "taxationCode": "کد",
+    "taxationCompound": "مالیات مرکب",
+    "taxationDescription": "توضیحات",
+    "taxationEndDate": "تاریخ پایان",
+    "taxationPercentage": "درصد",
+    "taxationStartDate": "تاریخ شروع",
+    "taxationTaxation": "مالیات",
+    "taxationTaxCategories": "دسته‌های مالیاتی",
+    "taxationTaxCategory": "دسته مالیاتی",
+    "taxationTaxJurisdiction": "حوزه مالیاتی",
+    "taxationTaxJurisdictions": "حوزه‌های مالیاتی",
+    "taxationTaxRate": "نرخ مالیات",
+    "taxationTaxRates": "نرخ‌های مالیات"
+}

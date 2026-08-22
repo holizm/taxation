@@ -1,0 +1,38 @@
+taxDeclarationStatus options
+    draft
+    submitted
+    accepted
+    rejected
+taxJurisdiction
+    title
+    code
+    parent optional
+    unique code
+taxCategory
+    title
+    code
+    description optional
+    unique code
+taxRate
+    title
+    taxJurisdiction
+    taxCategory
+    percentage realNumber
+    startDate
+    endDate optional
+    compound yesNo optional
+    unique taxJurisdiction taxCategory startDate
+taxExemption
+    title
+    taxCategory
+    reason
+    startDate
+    endDate optional
+taxDeclaration
+    number
+    startDate
+    endDate
+    taxDeclarationStatus
+    totalTax realNumber
+    submittedDate optional
+    unique number

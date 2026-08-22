@@ -1,0 +1,15 @@
+{
+    "taxationCode": "Code",
+    "taxationCompound": "Compound tax",
+    "taxationDescription": "Description",
+    "taxationEndDate": "End date",
+    "taxationPercentage": "Percentage",
+    "taxationStartDate": "Start date",
+    "taxationTaxation": "Taxation",
+    "taxationTaxCategories": "Tax categories",
+    "taxationTaxCategory": "Tax category",
+    "taxationTaxJurisdiction": "Tax jurisdiction",
+    "taxationTaxJurisdictions": "Tax jurisdictions",
+    "taxationTaxRate": "Tax rate",
+    "taxationTaxRates": "Tax rates"
+}
