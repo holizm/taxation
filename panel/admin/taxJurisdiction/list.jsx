@@ -1,23 +1,12 @@
-import {
-    List,
-    Text,
-    Title,
-} from 'list'
-import Form from './form'
-
-const headers = <>
-    <th start>taxationTaxJurisdiction</th>
-    <th>taxationCode</th>
-</>
-
-const row = item => <>
-    <td>{item.title}</td>
-    <td>{item.code}</td>
-</>
+import { List } from 'list'
+import filters from './filters'
+import form from './form'
+import headers from './headers'
+import row from './row'
 
 export default <List
-    create={Form}
-    filters={<Title />}
+    create={form}
+    filters={filters}
     hasDelete
     hasEdit
     headers={headers}
