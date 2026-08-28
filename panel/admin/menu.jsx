@@ -15,6 +15,7 @@ export default [
             },
         ],
         icon: 'percent',
+        path: '/taxation',
         title: 'taxationTaxation',
     },
 ]
