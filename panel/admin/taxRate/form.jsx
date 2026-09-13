@@ -3,22 +3,17 @@ import {
     DateTime,
     DialogForm,
     Numeric,
-    Text,
     Title,
 } from 'form'
+import { ScopesScopeField } from 'scopes'
+import TaxCategoryField from '../taxCategory/field'
+import TaxJurisdictionField from '../taxJurisdiction/field'
 
 const inputs = <>
     <Title />
-    <Text
-        placeholder='taxationTaxJurisdiction'
-        property='taxJurisdiction'
-        required
-    />
-    <Text
-        placeholder='taxationTaxCategory'
-        property='taxCategory'
-        required
-    />
+    <ScopesScopeField show />
+    <TaxJurisdictionField />
+    <TaxCategoryField />
     <Numeric
         placeholder='taxationPercentage'
         property='percentage'

@@ -15,6 +15,7 @@ taxCategory
     unique code
 taxRate
     title
+    scope
     taxJurisdiction
     taxCategory
     percentage realNumber
