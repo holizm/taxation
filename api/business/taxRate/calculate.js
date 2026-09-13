@@ -82,6 +82,7 @@ export const calculate = async ({
         )
         const percentage = Number(taxRate.percentage)
         const tax = {
+            ...minify(taxRate),
             ...minify(flattenedTaxCategory, {
                 flattened: ['taxationTaxCategory'],
                 keepId: true,
@@ -91,11 +92,7 @@ export const calculate = async ({
                 keepId: true,
             }),
             amount: amount * percentage / 100,
-            exemption: null,
-            percentage,
             taxableAmount: amount,
-            taxRate: taxRate.id,
-            title: taxRate.title,
         }
         return tax
     })
