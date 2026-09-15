@@ -1,0 +1,23 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "code": "کد",
+        "compound": "مالیات مرکب",
+        "description": "توضیحات",
+        "endDate": "تاریخ پایان",
+        "percentage": "درصد",
+        "startDate": "تاریخ شروع",
+        "taxation": "مالیات",
+        "taxCategories": "دسته‌های مالیاتی",
+        "taxCategory": "دسته مالیاتی",
+        "taxJurisdiction": "حوزه مالیاتی",
+        "taxJurisdictions": "حوزه‌های مالیاتی",
+        "taxRate": "نرخ مالیات",
+        "taxRates": "نرخ‌های مالیات"
+    },
+    "site": {
+        "tax": "مالیات",
+        "taxIncluded": "با احتساب مالیات"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "code": "Code",
+        "compound": "Compound tax",
+        "description": "Description",
+        "endDate": "End date",
+        "percentage": "Percentage",
+        "startDate": "Start date",
+        "taxation": "Taxation",
+        "taxCategories": "Tax categories",
+        "taxCategory": "Tax category",
+        "taxJurisdiction": "Tax jurisdiction",
+        "taxJurisdictions": "Tax jurisdictions",
+        "taxRate": "Tax rate",
+        "taxRates": "Tax rates"
+    },
+    "site": {
+        "tax": "Tax",
+        "taxIncluded": "Tax included"
+    }
+}
