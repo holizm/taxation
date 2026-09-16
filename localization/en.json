@@ -8,8 +8,6 @@
         "taxJurisdiction": "Tax jurisdiction",
         "taxJurisdictions": "Tax jurisdictions",
         "taxRate": "Tax rate",
-        "taxRates": "Tax rates",
-        "tax": "Tax",
-        "taxIncluded": "Tax included"
+        "taxRates": "Tax rates"
     }
 }
