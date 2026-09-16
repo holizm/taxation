@@ -1,7 +1,5 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "code": "Code",
         "compound": "Compound tax",
         "description": "Description",
@@ -14,9 +12,7 @@
         "taxJurisdiction": "Tax jurisdiction",
         "taxJurisdictions": "Tax jurisdictions",
         "taxRate": "Tax rate",
-        "taxRates": "Tax rates"
-    },
-    "site": {
+        "taxRates": "Tax rates",
         "tax": "Tax",
         "taxIncluded": "Tax included"
     }
