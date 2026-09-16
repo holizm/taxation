@@ -1,12 +1,8 @@
 {
     "common": {
         "taxation": "مالیات",
-        "code": "کد",
         "compound": "مالیات مرکب",
-        "description": "توضیحات",
-        "endDate": "تاریخ پایان",
         "percentage": "درصد",
-        "startDate": "تاریخ شروع",
         "taxCategories": "دسته‌های مالیاتی",
         "taxCategory": "دسته مالیاتی",
         "taxJurisdiction": "حوزه مالیاتی",

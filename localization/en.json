@@ -1,11 +1,7 @@
 {
     "common": {
-        "code": "Code",
         "compound": "Compound tax",
-        "description": "Description",
-        "endDate": "End date",
         "percentage": "Percentage",
-        "startDate": "Start date",
         "taxation": "Taxation",
         "taxCategories": "Tax categories",
         "taxCategory": "Tax category",
