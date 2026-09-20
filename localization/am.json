@@ -1,0 +1,13 @@
+{
+    "common": {
+        "compound": "ድብልቅ ግብር",
+        "percentage": "መቶኛ",
+        "taxation": "ግብር",
+        "taxCategories": "የግብር ምድቦች",
+        "taxCategory": "የግብር ምድብ",
+        "taxJurisdiction": "የግብር ስልጣን ክልል",
+        "taxJurisdictions": "የግብር ስልጣን ክልሎች",
+        "taxRate": "የግብር መጠን",
+        "taxRates": "የግብር መጠኖች"
+    }
+}

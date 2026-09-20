@@ -1,0 +1,13 @@
+{
+    "common": {
+        "compound": "Pajak majemuk",
+        "percentage": "Persentase",
+        "taxation": "Perpajakan",
+        "taxCategories": "Kategori pajak",
+        "taxCategory": "Kategori pajak",
+        "taxJurisdiction": "Yurisdiksi pajak",
+        "taxJurisdictions": "Yurisdiksi pajak",
+        "taxRate": "Tarif pajak",
+        "taxRates": "Tarif pajak"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "compound": "Samengestelde belasting",
+        "percentage": "Percentage",
+        "taxation": "Belastingheffing",
+        "taxCategories": "Belastingcategorieën",
+        "taxCategory": "Belastingcategorie",
+        "taxJurisdiction": "Belastingjurisdictie",
+        "taxJurisdictions": "Belastingjurisdicties",
+        "taxRate": "Belastingtarief",
+        "taxRates": "Belastingtarieven"
+    }
+}

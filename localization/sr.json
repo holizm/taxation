@@ -1,0 +1,13 @@
+{
+    "common": {
+        "compound": "Сложени порез",
+        "percentage": "Проценат",
+        "taxation": "Опорезивање",
+        "taxCategories": "Пореске категорије",
+        "taxCategory": "Пореска категорија",
+        "taxJurisdiction": "Пореска јурисдикција",
+        "taxJurisdictions": "Пореске јурисдикције",
+        "taxRate": "Пореска стопа",
+        "taxRates": "Пореске стопе"
+    }
+}

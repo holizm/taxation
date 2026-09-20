@@ -1,0 +1,13 @@
+{
+    "common": {
+        "compound": "સંયુક્ત કર",
+        "percentage": "ટકાવારી",
+        "taxation": "કરવેરા",
+        "taxCategories": "કર શ્રેણીઓ",
+        "taxCategory": "કર શ્રેણી",
+        "taxJurisdiction": "કર અધિકારક્ષેત્ર",
+        "taxJurisdictions": "કર અધિકારક્ષેત્રો",
+        "taxRate": "કર દર",
+        "taxRates": "કર દરો"
+    }
+}

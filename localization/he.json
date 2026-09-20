@@ -1,0 +1,13 @@
+{
+    "common": {
+        "compound": "מס מורכב",
+        "percentage": "אחוז",
+        "taxation": "מיסוי",
+        "taxCategories": "קטגוריות מס",
+        "taxCategory": "קטגוריית מס",
+        "taxJurisdiction": "תחום שיפוט מס",
+        "taxJurisdictions": "תחומי שיפוט מס",
+        "taxRate": "שיעור מס",
+        "taxRates": "שיעורי מס"
+    }
+}

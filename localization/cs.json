@@ -1,0 +1,13 @@
+{
+    "common": {
+        "compound": "Složená daň",
+        "percentage": "Procento",
+        "taxation": "Zdanění",
+        "taxCategories": "Daňové kategorie",
+        "taxCategory": "Daňová kategorie",
+        "taxJurisdiction": "Daňová jurisdikce",
+        "taxJurisdictions": "Daňové jurisdikce",
+        "taxRate": "Sazba daně",
+        "taxRates": "Sazby daně"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "compound": "సమ్మేళన పన్ను",
+        "percentage": "శాతం",
+        "taxation": "పన్ను విధింపు",
+        "taxCategories": "పన్ను వర్గాలు",
+        "taxCategory": "పన్ను వర్గం",
+        "taxJurisdiction": "పన్ను అధికార పరిధి",
+        "taxJurisdictions": "పన్ను అధికార పరిధులు",
+        "taxRate": "పన్ను రేటు",
+        "taxRates": "పన్ను రేట్లు"
+    }
+}

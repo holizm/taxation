@@ -1,0 +1,13 @@
+{
+    "common": {
+        "compound": "Σύνθετος φόρος",
+        "percentage": "Ποσοστό",
+        "taxation": "Φορολογία",
+        "taxCategories": "Κατηγορίες φόρων",
+        "taxCategory": "Κατηγορία φόρου",
+        "taxJurisdiction": "Φορολογική δικαιοδοσία",
+        "taxJurisdictions": "Φορολογικές δικαιοδοσίες",
+        "taxRate": "Φορολογικός συντελεστής",
+        "taxRates": "Φορολογικοί συντελεστές"
+    }
+}

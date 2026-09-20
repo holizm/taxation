@@ -1,0 +1,13 @@
+{
+    "common": {
+        "compound": "ਮਿਸ਼ਰਿਤ ਟੈਕਸ",
+        "percentage": "ਪ੍ਰਤੀਸ਼ਤ",
+        "taxation": "ਟੈਕਸ ਪ੍ਰਣਾਲੀ",
+        "taxCategories": "ਟੈਕਸ ਸ਼੍ਰੇਣੀਆਂ",
+        "taxCategory": "ਟੈਕਸ ਸ਼੍ਰੇਣੀ",
+        "taxJurisdiction": "ਟੈਕਸ ਅਧਿਕਾਰ ਖੇਤਰ",
+        "taxJurisdictions": "ਟੈਕਸ ਅਧਿਕਾਰ ਖੇਤਰ",
+        "taxRate": "ਟੈਕਸ ਦਰ",
+        "taxRates": "ਟੈਕਸ ਦਰਾਂ"
+    }
+}

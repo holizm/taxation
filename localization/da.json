@@ -1,0 +1,13 @@
+{
+    "common": {
+        "compound": "Sammensat afgift",
+        "percentage": "Procentdel",
+        "taxation": "Beskatning",
+        "taxCategories": "Afgiftskategorier",
+        "taxCategory": "Afgiftskategori",
+        "taxJurisdiction": "Skattejurisdiktion",
+        "taxJurisdictions": "Skattejurisdiktioner",
+        "taxRate": "Afgiftssats",
+        "taxRates": "Afgiftssatser"
+    }
+}

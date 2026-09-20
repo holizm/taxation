@@ -1,0 +1,13 @@
+{
+    "common": {
+        "compound": "Yhdistelmävero",
+        "percentage": "Prosenttiosuus",
+        "taxation": "Verotus",
+        "taxCategories": "Veroluokat",
+        "taxCategory": "Veroluokka",
+        "taxJurisdiction": "Verotusalue",
+        "taxJurisdictions": "Verotusalueet",
+        "taxRate": "Verokanta",
+        "taxRates": "Verokannat"
+    }
+}

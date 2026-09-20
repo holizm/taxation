@@ -1,0 +1,13 @@
+{
+    "common": {
+        "compound": "चक्रवाढ कर",
+        "percentage": "टक्केवारी",
+        "taxation": "कर आकारणी",
+        "taxCategories": "कर श्रेणी",
+        "taxCategory": "कर श्रेणी",
+        "taxJurisdiction": "कर अधिकारक्षेत्र",
+        "taxJurisdictions": "कर अधिकारक्षेत्रे",
+        "taxRate": "कर दर",
+        "taxRates": "कर दर"
+    }
+}

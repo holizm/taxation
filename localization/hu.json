@@ -1,0 +1,13 @@
+{
+    "common": {
+        "compound": "Összetett adó",
+        "percentage": "Százalék",
+        "taxation": "Adózás",
+        "taxCategories": "Adókategóriák",
+        "taxCategory": "Adókategória",
+        "taxJurisdiction": "Adójoghatóság",
+        "taxJurisdictions": "Adójoghatóságok",
+        "taxRate": "Adókulcs",
+        "taxRates": "Adókulcsok"
+    }
+}

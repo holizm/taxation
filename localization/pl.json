@@ -1,0 +1,13 @@
+{
+    "common": {
+        "compound": "Podatek składany",
+        "percentage": "Procent",
+        "taxation": "Opodatkowanie",
+        "taxCategories": "Kategorie podatkowe",
+        "taxCategory": "Kategoria podatkowa",
+        "taxJurisdiction": "Jurysdykcja podatkowa",
+        "taxJurisdictions": "Jurysdykcje podatkowe",
+        "taxRate": "Stawka podatkowa",
+        "taxRates": "Stawki podatkowe"
+    }
+}
