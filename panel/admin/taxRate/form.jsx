@@ -15,7 +15,7 @@ const inputs = <>
     <TaxJurisdictionField />
     <TaxCategoryField />
     <Numeric
-        placeholder='taxationPercentage'
+        placeholder='corePercentage'
         property='percentage'
         required
     />

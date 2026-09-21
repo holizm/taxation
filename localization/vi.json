@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Thuế kép",
-        "percentage": "Phần trăm",
-        "taxation": "Thuế",
         "taxCategories": "Danh mục thuế",
         "taxCategory": "Danh mục thuế",
         "taxJurisdiction": "Khu vực pháp lý về thuế",
         "taxJurisdictions": "Các khu vực pháp lý về thuế",
         "taxRate": "Thuế suất",
-        "taxRates": "Các mức thuế suất"
+        "taxRates": "Các mức thuế suất",
+        "taxation": "Thuế"
     }
 }

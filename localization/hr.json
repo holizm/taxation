@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Složeni porez",
-        "percentage": "Postotak",
-        "taxation": "Oporezivanje",
         "taxCategories": "Porezne kategorije",
         "taxCategory": "Porezna kategorija",
         "taxJurisdiction": "Porezna jurisdikcija",
         "taxJurisdictions": "Porezne jurisdikcije",
         "taxRate": "Porezna stopa",
-        "taxRates": "Porezne stope"
+        "taxRates": "Porezne stope",
+        "taxation": "Oporezivanje"
     }
 }

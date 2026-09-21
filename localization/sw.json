@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Kodi mseto",
-        "percentage": "Asilimia",
-        "taxation": "Ushuru",
         "taxCategories": "Aina za kodi",
         "taxCategory": "Aina ya kodi",
         "taxJurisdiction": "Mamlaka ya kodi",
         "taxJurisdictions": "Mamlaka za kodi",
         "taxRate": "Kiwango cha kodi",
-        "taxRates": "Viwango vya kodi"
+        "taxRates": "Viwango vya kodi",
+        "taxation": "Ushuru"
     }
 }

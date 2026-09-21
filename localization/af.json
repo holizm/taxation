@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Saamgestelde belasting",
-        "percentage": "Persentasie",
-        "taxation": "Belasting",
         "taxCategories": "Belastingkategorieë",
         "taxCategory": "Belastingkategorie",
         "taxJurisdiction": "Belastingjurisdiksie",
         "taxJurisdictions": "Belastingjurisdiksies",
         "taxRate": "Belastingkoers",
-        "taxRates": "Belastingkoerse"
+        "taxRates": "Belastingkoerse",
+        "taxation": "Belasting"
     }
 }

@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "复合税",
-        "percentage": "百分比",
-        "taxation": "税务",
         "taxCategories": "税种",
         "taxCategory": "税种",
         "taxJurisdiction": "税收管辖区",
         "taxJurisdictions": "税收管辖区",
         "taxRate": "税率",
-        "taxRates": "税率"
+        "taxRates": "税率",
+        "taxation": "税务"
     }
 }

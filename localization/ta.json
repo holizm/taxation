@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "கூட்டு வரி",
-        "percentage": "சதவீதம்",
-        "taxation": "வரிவிதிப்பு",
         "taxCategories": "வரி வகைகள்",
         "taxCategory": "வரி வகை",
         "taxJurisdiction": "வரி அதிகார வரம்பு",
         "taxJurisdictions": "வரி அதிகார வரம்புகள்",
         "taxRate": "வரி விகிதம்",
-        "taxRates": "வரி விகிதங்கள்"
+        "taxRates": "வரி விகிதங்கள்",
+        "taxation": "வரிவிதிப்பு"
     }
 }

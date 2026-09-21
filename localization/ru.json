@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Сложный налог",
-        "percentage": "Процент",
-        "taxation": "Налогообложение",
         "taxCategories": "Налоговые категории",
         "taxCategory": "Налоговая категория",
         "taxJurisdiction": "Налоговая юрисдикция",
         "taxJurisdictions": "Налоговые юрисдикции",
         "taxRate": "Налоговая ставка",
-        "taxRates": "Налоговые ставки"
+        "taxRates": "Налоговые ставки",
+        "taxation": "Налогообложение"
     }
 }

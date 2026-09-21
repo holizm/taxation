@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "যৌগিক কর",
-        "percentage": "শতাংশ",
-        "taxation": "কর ব্যবস্থা",
         "taxCategories": "করের বিভাগসমূহ",
         "taxCategory": "করের বিভাগ",
         "taxJurisdiction": "কর অধিক্ষেত্র",
         "taxJurisdictions": "কর অধিক্ষেত্রসমূহ",
         "taxRate": "করের হার",
-        "taxRates": "করের হারসমূহ"
+        "taxRates": "করের হারসমূহ",
+        "taxation": "কর ব্যবস্থা"
     }
 }

@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "ضريبة مركبة",
-        "percentage": "النسبة المئوية",
-        "taxation": "الضرائب",
         "taxCategories": "فئات الضرائب",
         "taxCategory": "فئة الضريبة",
         "taxJurisdiction": "النطاق الضريبي",
         "taxJurisdictions": "النطاقات الضريبية",
         "taxRate": "معدل الضريبة",
-        "taxRates": "معدلات الضرائب"
+        "taxRates": "معدلات الضرائب",
+        "taxation": "الضرائب"
     }
 }

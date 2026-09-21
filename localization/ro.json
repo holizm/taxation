@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Taxă compusă",
-        "percentage": "Procent",
-        "taxation": "Impozitare",
         "taxCategories": "Categorii fiscale",
         "taxCategory": "Categorie fiscală",
         "taxJurisdiction": "Jurisdicție fiscală",
         "taxJurisdictions": "Jurisdicții fiscale",
         "taxRate": "Cotă de impozitare",
-        "taxRates": "Cote de impozitare"
+        "taxRates": "Cote de impozitare",
+        "taxation": "Impozitare"
     }
 }

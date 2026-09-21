@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Compound tax",
-        "percentage": "Percentage",
-        "taxation": "Taxation",
         "taxCategories": "Tax categories",
         "taxCategory": "Tax category",
         "taxJurisdiction": "Tax jurisdiction",
         "taxJurisdictions": "Tax jurisdictions",
         "taxRate": "Tax rate",
-        "taxRates": "Tax rates"
+        "taxRates": "Tax rates",
+        "taxation": "Taxation"
     }
 }

@@ -1,13 +1,12 @@
 {
     "common": {
-        "taxation": "مالیات",
         "compound": "مالیات مرکب",
-        "percentage": "درصد",
         "taxCategories": "دسته‌های مالیاتی",
         "taxCategory": "دسته مالیاتی",
         "taxJurisdiction": "حوزه مالیاتی",
         "taxJurisdictions": "حوزه‌های مالیاتی",
         "taxRate": "نرخ مالیات",
-        "taxRates": "نرخ‌های مالیات"
+        "taxRates": "نرخ‌های مالیات",
+        "taxation": "مالیات"
     }
 }

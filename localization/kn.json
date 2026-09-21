@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "ಸಂಯುಕ್ತ ತೆರಿಗೆ",
-        "percentage": "ಶೇಕಡಾವಾರು",
-        "taxation": "ತೆರಿಗೆ ವಿಧಿಸುವಿಕೆ",
         "taxCategories": "ತೆರಿಗೆ ವರ್ಗಗಳು",
         "taxCategory": "ತೆರಿಗೆ ವರ್ಗ",
         "taxJurisdiction": "ತೆರಿಗೆ ನ್ಯಾಯವ್ಯಾಪ್ತಿ",
         "taxJurisdictions": "ತೆರಿಗೆ ನ್ಯಾಯವ್ಯಾಪ್ತಿಗಳು",
         "taxRate": "ತೆರಿಗೆ ದರ",
-        "taxRates": "ತೆರಿಗೆ ದರಗಳು"
+        "taxRates": "ತೆರಿಗೆ ದರಗಳು",
+        "taxation": "ತೆರಿಗೆ ವಿಧಿಸುವಿಕೆ"
     }
 }

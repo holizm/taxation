@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Sammansatt skatt",
-        "percentage": "Procentandel",
-        "taxation": "Beskattning",
         "taxCategories": "Skattekategorier",
         "taxCategory": "Skattekategori",
         "taxJurisdiction": "Skattejurisdiktion",
         "taxJurisdictions": "Skattejurisdiktioner",
         "taxRate": "Skattesats",
-        "taxRates": "Skattesatser"
+        "taxRates": "Skattesatser",
+        "taxation": "Beskattning"
     }
 }

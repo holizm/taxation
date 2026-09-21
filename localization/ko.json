@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "복합세",
-        "percentage": "백분율",
-        "taxation": "과세",
         "taxCategories": "세금 범주",
         "taxCategory": "세금 범주",
         "taxJurisdiction": "과세 관할권",
         "taxJurisdictions": "과세 관할권",
         "taxRate": "세율",
-        "taxRates": "세율"
+        "taxRates": "세율",
+        "taxation": "과세"
     }
 }

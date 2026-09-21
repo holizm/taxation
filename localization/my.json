@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "ပေါင်းစပ်အခွန်",
-        "percentage": "ရာခိုင်နှုန်း",
-        "taxation": "အခွန်စနစ်",
         "taxCategories": "အခွန်အမျိုးအစားများ",
         "taxCategory": "အခွန်အမျိုးအစား",
         "taxJurisdiction": "အခွန်စီရင်ပိုင်ခွင့်နယ်မြေ",
         "taxJurisdictions": "အခွန်စီရင်ပိုင်ခွင့်နယ်မြေများ",
         "taxRate": "အခွန်နှုန်း",
-        "taxRates": "အခွန်နှုန်းများ"
+        "taxRates": "အခွန်နှုန်းများ",
+        "taxation": "အခွန်စနစ်"
     }
 }

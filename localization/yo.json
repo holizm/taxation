@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Owó orí àpapọ̀",
-        "percentage": "Ìdá ọgọ́rùn-ún",
-        "taxation": "Ètò owó orí",
         "taxCategories": "Àwọn ẹ̀ka owó orí",
         "taxCategory": "Ẹ̀ka owó orí",
         "taxJurisdiction": "Agbègbè àṣẹ owó orí",
         "taxJurisdictions": "Àwọn agbègbè àṣẹ owó orí",
         "taxRate": "Ìwọ̀n owó orí",
-        "taxRates": "Àwọn ìwọ̀n owó orí"
+        "taxRates": "Àwọn ìwọ̀n owó orí",
+        "taxation": "Ètò owó orí"
     }
 }

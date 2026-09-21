@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Haraji mai haɗewa",
-        "percentage": "Kashi",
-        "taxation": "Tsarin haraji",
         "taxCategories": "Rukunonin haraji",
         "taxCategory": "Rukunin haraji",
         "taxJurisdiction": "Yankin ikon haraji",
         "taxJurisdictions": "Yankunan ikon haraji",
         "taxRate": "Adadin haraji",
-        "taxRates": "Adadin haraji"
+        "taxRates": "Adadin haraji",
+        "taxation": "Tsarin haraji"
     }
 }

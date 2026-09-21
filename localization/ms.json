@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Cukai kompaun",
-        "percentage": "Peratusan",
-        "taxation": "Percukaian",
         "taxCategories": "Kategori cukai",
         "taxCategory": "Kategori cukai",
         "taxJurisdiction": "Bidang kuasa cukai",
         "taxJurisdictions": "Bidang kuasa cukai",
         "taxRate": "Kadar cukai",
-        "taxRates": "Kadar cukai"
+        "taxRates": "Kadar cukai",
+        "taxation": "Percukaian"
     }
 }

@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Складений податок",
-        "percentage": "Відсоток",
-        "taxation": "Оподаткування",
         "taxCategories": "Податкові категорії",
         "taxCategory": "Податкова категорія",
         "taxJurisdiction": "Податкова юрисдикція",
         "taxJurisdictions": "Податкові юрисдикції",
         "taxRate": "Податкова ставка",
-        "taxRates": "Податкові ставки"
+        "taxRates": "Податкові ставки",
+        "taxation": "Оподаткування"
     }
 }

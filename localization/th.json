@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "ภาษีทบต้น",
-        "percentage": "เปอร์เซ็นต์",
-        "taxation": "การจัดเก็บภาษี",
         "taxCategories": "หมวดหมู่ภาษี",
         "taxCategory": "หมวดหมู่ภาษี",
         "taxJurisdiction": "เขตอำนาจภาษี",
         "taxJurisdictions": "เขตอำนาจภาษี",
         "taxRate": "อัตราภาษี",
-        "taxRates": "อัตราภาษี"
+        "taxRates": "อัตราภาษี",
+        "taxation": "การจัดเก็บภาษี"
     }
 }

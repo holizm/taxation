@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Съставен данък",
-        "percentage": "Процент",
-        "taxation": "Данъчно облагане",
         "taxCategories": "Данъчни категории",
         "taxCategory": "Данъчна категория",
         "taxJurisdiction": "Данъчна юрисдикция",
         "taxJurisdictions": "Данъчни юрисдикции",
         "taxRate": "Данъчна ставка",
-        "taxRates": "Данъчни ставки"
+        "taxRates": "Данъчни ставки",
+        "taxation": "Данъчно облагане"
     }
 }

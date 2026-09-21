@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Zusammengesetzte Steuer",
-        "percentage": "Prozentsatz",
-        "taxation": "Besteuerung",
         "taxCategories": "Steuerkategorien",
         "taxCategory": "Steuerkategorie",
         "taxJurisdiction": "Steuerhoheitsgebiet",
         "taxJurisdictions": "Steuerhoheitsgebiete",
         "taxRate": "Steuersatz",
-        "taxRates": "Steuersätze"
+        "taxRates": "Steuersätze",
+        "taxation": "Besteuerung"
     }
 }

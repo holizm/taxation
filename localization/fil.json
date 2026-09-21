@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Pinagsamang buwis",
-        "percentage": "Porsiyento",
-        "taxation": "Pagbubuwis",
         "taxCategories": "Mga kategorya ng buwis",
         "taxCategory": "Kategorya ng buwis",
         "taxJurisdiction": "Hurisdiksiyon sa buwis",
         "taxJurisdictions": "Mga hurisdiksiyon sa buwis",
         "taxRate": "Rate ng buwis",
-        "taxRates": "Mga rate ng buwis"
+        "taxRates": "Mga rate ng buwis",
+        "taxation": "Pagbubuwis"
     }
 }

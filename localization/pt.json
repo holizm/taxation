@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Imposto composto",
-        "percentage": "Percentagem",
-        "taxation": "Tributação",
         "taxCategories": "Categorias fiscais",
         "taxCategory": "Categoria fiscal",
         "taxJurisdiction": "Jurisdição fiscal",
         "taxJurisdictions": "Jurisdições fiscais",
         "taxRate": "Taxa de imposto",
-        "taxRates": "Taxas de imposto"
+        "taxRates": "Taxas de imposto",
+        "taxation": "Tributação"
     }
 }

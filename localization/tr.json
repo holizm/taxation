@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "Bileşik vergi",
-        "percentage": "Yüzde",
-        "taxation": "Vergilendirme",
         "taxCategories": "Vergi kategorileri",
         "taxCategory": "Vergi kategorisi",
         "taxJurisdiction": "Vergi yetki alanı",
         "taxJurisdictions": "Vergi yetki alanları",
         "taxRate": "Vergi oranı",
-        "taxRates": "Vergi oranları"
+        "taxRates": "Vergi oranları",
+        "taxation": "Vergilendirme"
     }
 }

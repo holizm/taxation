@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "مرکب ٹیکس",
-        "percentage": "فیصد",
-        "taxation": "ٹیکس کا نظام",
         "taxCategories": "ٹیکس کے زمرے",
         "taxCategory": "ٹیکس کا زمرہ",
         "taxJurisdiction": "ٹیکس کا دائرۂ اختیار",
         "taxJurisdictions": "ٹیکس کے دائرہ ہائے اختیار",
         "taxRate": "ٹیکس کی شرح",
-        "taxRates": "ٹیکس کی شرحیں"
+        "taxRates": "ٹیکس کی شرحیں",
+        "taxation": "ٹیکس کا نظام"
     }
 }

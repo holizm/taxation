@@ -1,13 +1,12 @@
 {
     "common": {
         "compound": "സംയുക്ത നികുതി",
-        "percentage": "ശതമാനം",
-        "taxation": "നികുതി ചുമത്തൽ",
         "taxCategories": "നികുതി വിഭാഗങ്ങൾ",
         "taxCategory": "നികുതി വിഭാഗം",
         "taxJurisdiction": "നികുതി അധികാരപരിധി",
         "taxJurisdictions": "നികുതി അധികാരപരിധികൾ",
         "taxRate": "നികുതി നിരക്ക്",
-        "taxRates": "നികുതി നിരക്കുകൾ"
+        "taxRates": "നികുതി നിരക്കുകൾ",
+        "taxation": "നികുതി ചുമത്തൽ"
     }
 }
