@@ -23,6 +23,8 @@ taxRate
     endDate optional
     compound yesNo optional
     unique taxJurisdiction taxCategory startDate
+    uses
+        scopes
 taxExemption
     title
     taxCategory

@@ -6,7 +6,7 @@ import row from './row'
 export default <Browse
     filters={filters}
     headers={headers}
-    placeholder='taxationTaxJurisdiction'
+    placeholder='taxJurisdiction'
     property='taxJurisdiction'
     row={row}
     required

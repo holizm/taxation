@@ -1,4 +1,4 @@
 export default <>
-    <th start>taxationTaxJurisdiction</th>
-    <th>taxationCode</th>
+    <th start>taxJurisdiction</th>
+    <th>code</th>
 </>

@@ -3,19 +3,19 @@ export default [
         children: [
             {
                 path: '/taxation/taxJurisdiction/list',
-                title: 'taxationTaxJurisdictions',
+                title: 'taxJurisdictions',
             },
             {
                 path: '/taxation/taxCategory/list',
-                title: 'taxationTaxCategories',
+                title: 'taxCategories',
             },
             {
                 path: '/taxation/taxRate/list',
-                title: 'taxationTaxRates',
+                title: 'taxRates',
             },
         ],
         icon: 'percent',
         path: '/taxation',
-        title: 'taxationTaxation',
+        title: 'taxation',
     },
 ]

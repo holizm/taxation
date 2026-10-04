@@ -1,4 +1,4 @@
 export default <>
-    <th start>taxationTaxRate</th>
-    <th>corePercentage</th>
+    <th start>taxRate</th>
+    <th>percentage</th>
 </>

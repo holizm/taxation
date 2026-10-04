@@ -7,7 +7,7 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='taxationCode'
+        placeholder='code'
         property='code'
         required
     />

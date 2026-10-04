@@ -15,21 +15,21 @@ const inputs = <>
     <TaxJurisdictionField />
     <TaxCategoryField />
     <Numeric
-        placeholder='corePercentage'
+        placeholder='percentage'
         property='percentage'
         required
     />
     <DateTime
-        placeholder='taxationStartDate'
+        placeholder='startDate'
         property='startDate'
         required
     />
     <DateTime
-        placeholder='taxationEndDate'
+        placeholder='endDate'
         property='endDate'
     />
     <Boolean
-        placeholder='taxationCompound'
+        placeholder='compound'
         property='compound'
     />
 </>
