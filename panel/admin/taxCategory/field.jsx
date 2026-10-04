@@ -6,8 +6,7 @@ import row from './row'
 export default <Browse
     filters={filters}
     headers={headers}
-    placeholder='taxCategory'
-    property='taxCategory'
-    row={row}
     required
+    row={row}
+    taxCategory
 />

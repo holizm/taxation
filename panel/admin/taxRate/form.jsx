@@ -15,23 +15,15 @@ const inputs = <>
     <TaxJurisdictionField />
     <TaxCategoryField />
     <Numeric
-        placeholder='percentage'
-        property='percentage'
+        percentage
         required
     />
     <DateTime
-        placeholder='startDate'
-        property='startDate'
         required
+        startDate
     />
-    <DateTime
-        placeholder='endDate'
-        property='endDate'
-    />
-    <Boolean
-        placeholder='compound'
-        property='compound'
-    />
+    <DateTime endDate />
+    <Boolean compound />
 </>
 
 export default <DialogForm inputs={inputs} />
