@@ -11,7 +11,7 @@ import TaxJurisdictionField from '../taxJurisdiction/field'
 
 const inputs = <>
     <Title />
-    <ScopesScopeField show />
+    <ScopesScopeField visible />
     <TaxJurisdictionField />
     <TaxCategoryField />
     <Numeric
