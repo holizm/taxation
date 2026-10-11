@@ -1,6 +1,6 @@
 {
     "common": {
-        "compound": "Sammensatt avgift",
+        "compound": "Sammensatt skatt",
         "taxCategories": "Avgiftskategorier",
         "taxCategory": "Avgiftskategori",
         "taxDeclaration": "Skattemelding",

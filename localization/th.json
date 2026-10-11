@@ -1,6 +1,6 @@
 {
     "common": {
-        "compound": "ภาษีทบต้น",
+        "compound": "ภาษีแบบผสม",
         "taxCategories": "หมวดหมู่ภาษี",
         "taxCategory": "หมวดหมู่ภาษี",
         "taxDeclaration": "การยื่นภาษี",
